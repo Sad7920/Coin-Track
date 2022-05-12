@@ -4,7 +4,6 @@ import axios from "axios";
 
 import Coins from "./components/Coins";
 import Navbar from "./components/Navbar";
-import Banner from "./components/Banner";
 import Coin from "./routes/Coin";
 import Footer from "./components/Footer";
 
